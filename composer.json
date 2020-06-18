@@ -1,0 +1,12 @@
+{
+    "name": "mint/partenr",
+    "authors": [
+        {
+            "name": "TimiaCJ",
+            "email": "timia.voskuyl@outlook.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
